@@ -1,7 +1,6 @@
 # Hi 👋, I'm Farell kurniawan
 # 💫 About Me:
-🔭 I’m currently working on StorSync - SmartHomeServer<br>https://drive.google.com/file/d/1AspLPOJkIQC-NDbiprkvyU3pzhsws3FB/view<br>🌱 I’m currently learning AI, HA (High Availability), Linux, Python, etc<br>💬 Ask me about AI, Web, Design, Android, Network, etc<br>📫 How to reach me farellkurniawan17108@gmail.com<br>👨‍💻 All of my projects are available at https://webfk.smarthomeserver.my.id/fk-portofolio/index.html<br>⚡ Fun fact I am The Owner of StorSync
-
+🔭 I’m currently working on StorSync - SmartHomeServer<br>https://drive.google.com/file/d/1AspLPOJkIQC-NDbiprkvyU3pzhsws3FB/view<br>🌱 I’m currently learning AI, HA (High Availability), Linux, Python, etc<br>💬 Ask me about AI, Web, Design, Android, Network, etc<br>📫 How to reach me farellkurniawan17108@gmail.com<br>👨‍💻 All of my projects are available at http://webfk.smarthomeserver.my.id/fk-portfolio/<br>⚡ Fun fact I am The Owner of StorSync
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fk_farell17108) 
