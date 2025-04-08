@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="600" height="338" alt="Spiderman Animation">
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="320" height="180" alt="Spiderman Animation">
 </p>
 
 # Hi 👋, I'm Farell Kurniawan  
