@@ -19,7 +19,7 @@ I'm a vocational high school student majoring in **Network and Application Infor
   📂 [View Project](https://drive.google.com/file/d/1AspLPOJkIQC-NDbiprkvyU3pzhsws3FB/view)
 
 ### 📬 Let's Connect
-- 💌 Email: **farellkurniawan17108@gmail.com**  
+- 💌 Email: **farell.kurniawan.id@gmail.com**  
 - 🌐 Portfolio: [My Portfolio](http://webfk.smarthomeserver.my.id/fk-portfolio/)
 
 ### 💡 Fun Fact
