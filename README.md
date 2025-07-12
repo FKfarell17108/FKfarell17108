@@ -37,9 +37,6 @@ I am a vocational high school student majoring in Network Information Systems an
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Tkinter](https://img.shields.io/badge/Tkinter-FFDB4D?style=for-the-badge&logo=python&logoColor=black)
-![PyQt](https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-000000?style=for-the-badge&logo=python&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 
 ### 2. 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
