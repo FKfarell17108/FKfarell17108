@@ -69,13 +69,6 @@ I am Farell, you can call me FK. I am passionate development, especially web dev
 
 ---
 
-## 🎧 Spotify Playing
-<p align="center">
-  <a href="https://open.spotify.com/user/USER_ID_ANDA">
-    <img src="https://novatorem-spotify-readme.vercel.app/api/run?title=Listening%20to%20Spotify&link=https://open.spotify.com/&background_color=1db954&text_color=ffffff" alt="Spotify Now Playing" />
-  </a>
-</p>
-
 ### 🎵 Favorite Song
 <p align="left">
   <a href="https://open.spotify.com/track/6Uq6eF5l5YIe9XgE9n6z2B">
@@ -84,9 +77,3 @@ I am Farell, you can call me FK. I am passionate development, especially web dev
 </p>
 
 ---
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=FKfarell17108&icon=0&color=0" />
-  </a>
-</p>
