@@ -6,7 +6,7 @@
 
 ## 💫 About Me
 
-I am Farell, you can call me FK. I am passionate development, especially web development, UI/UX design, and server maintenance.
+I am Farell, you can call me FK. I am passionate development, especially software/web development, UI/UX design, and server maintenance.
 
 ### 📬 Let's Connect
 - 💌 Email: **farell.kurniawan.id@gmail.com**  
