@@ -21,6 +21,8 @@ I am Farell, you can call me FK. I am passionate development, especially softwar
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fk_farell17108)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farell-kurniawan-0898572b3/)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/rabbitfk17)
 
 ---
 
