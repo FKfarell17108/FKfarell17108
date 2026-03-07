@@ -68,11 +68,6 @@ I am Farell, you can call me FK. I am passionate development, especially softwar
 
 ---
 
-### 🎵 Favorite Song
-<p align="left">
-  <a href="https://open.spotify.com/track/6Uq6eF5l5YIe9XgE9n6z2B">
-    <img src="https://img.shields.io/badge/Favorite%20Song-Blue%20by%20Yuan%20Kai-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Yuan Kai - Blue" />
-  </a>
-</p>
+![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31hrsrv73lpx7g2qn56fmlryafdy&count=1&unique=1)
 
 ---
