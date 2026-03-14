@@ -4,29 +4,19 @@
 
 # I'm Farell Kurniawan🐰
 
-## 💫 About Me
+## About Me
 
 My name is Farell, but you can call me FK. I am very interested in software development, systems, servers, and networks. Currently, I am focusing on becoming a software engineer.
 
-### 📬 Let's Connect
-- 💌 Email: **farell.kurniawan.id@gmail.com**  
-- 🌐 Portfolio: [My Portfolio](https://farellkurniawan.storsync.net/)
+### Let's Connect
+- Email: **farell.kurniawan.id@gmail.com**  
 
-### 💡 Fun Fact
-- ⚡ I successfully built my own home NAS server, named **Storsync**.
-
----
-
-## 🌐 Socials  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fk_farell17108)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farell-kurniawan-0898572b3/)
-&nbsp;
-![Discord](https://img.shields.io/badge/Discord-rabbitfk17-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+### Fun Fact
+- I successfully built my own home NAS server, named **Storsync**.
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -58,7 +48,7 @@ My name is Farell, but you can call me FK. I am very interested in software deve
 
 ---
 
-### ✍️ Words to Live By
+### Words to Live By
 
 > “Everybody in this country should learn how to program a computer… because it teaches you how to think.”
 > — **Steve Jobs**
