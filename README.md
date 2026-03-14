@@ -30,5 +30,4 @@ But you can call me FK. I am very interested in software development, systems, s
 
 ### Words to Live By
 
-> “Excuses make today easy, but they make tomorrow hard. Discipline makes today hard, but it makes tomorrow easy.”
-> — **Michael Oher**
+> “Stop doing something in order to do something else” - **FK**
