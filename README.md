@@ -4,7 +4,7 @@
 
 # I'm Farell Kurniawan
 
-But you can call me FK. I am very interested in software development, systems, servers, and networks. Currently, I am focusing on becoming a software engineer. [Contact](**farell.kurniawan.id@gmail.com**)
+But you can call me FK. I’m really into software development, experimenting, and building things that fit my needs. You could call me a **Software Engineer**. [Contact](**farell.kurniawan.id@gmail.com**)
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -17,6 +17,6 @@ But you can call me FK. I am very interested in software development, systems, s
 
 ---
 
-### Words to Live By
+### In My Opinion:
 
 > “Stop doing something in order to do something else” - **FK**
