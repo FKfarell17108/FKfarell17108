@@ -2,7 +2,7 @@
   <img src="https://archive.mceventrecreations.net/images/Movie_Button_Hover.gif" width="330" height="180" alt="MC">
 </p>
 
-# I'm Farell Kurniawan🐰
+# I'm Farell Kurniawan
 
 But you can call me FK. I am very interested in software development, systems, servers, and networks. Currently, I am focusing on becoming a software engineer. [Contact](**farell.kurniawan.id@gmail.com**)
 
