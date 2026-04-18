@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://archive.mceventrecreations.net/images/Movie_Button_Hover.gif" width="330" height="180" alt="MC">
+  <img src="https://archive.mceventrecreations.net/images/Movie_Button_Hover.gif" alt="MC">
 </p>
 
 # I'm Farell Kurniawan
