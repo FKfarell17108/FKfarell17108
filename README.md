@@ -4,7 +4,7 @@
 
 # I'm Farell Kurniawan
 
-But you can call me FK. I can create things tailored to my personal tastes and preferences, what I call the **FK Universe**.. You can call me a Software Engineer
+But you can call me FK. I can create things tailored to my personal tastes and preferences, what I call the **FK Universe**.
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
@@ -17,6 +17,6 @@ But you can call me FK. I can create things tailored to my personal tastes and p
 
 ---
 
-### In My Opinion:
+### Quote:
 
 > “Stop doing something in order to do something else” - **FK**
