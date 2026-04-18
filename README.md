@@ -4,7 +4,7 @@
 
 # I'm Farell Kurniawan
 
-But you can call me FK. I’m really into software development, experimenting, and building things that fit my needs. You could call me a **Software Engineer**. [Contact](**farell.kurniawan.id@gmail.com**)
+But you can call me FK. I can create things tailored to my personal tastes and preferences, what I call the **FK Universe**.. You can call me a Software Engineer
 
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
