@@ -14,6 +14,13 @@ But you can call me FK. I create works tailored to my personal tastes and prefer
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FKfarell17108/FKfarell17108/blob/output/github-snake-dark.svg">
+  <img alt="github contribution snake" src="https://github.com/FKfarell17108/FKfarell17108/blob/output/github-snake.svg">
+</picture>
+
+---
+
 ### Quote:
 
 > “Stop doing something in order to do something else” - **FK**
