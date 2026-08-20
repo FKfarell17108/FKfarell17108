@@ -12,10 +12,6 @@ I am a Software Engineer / Full Stack Developer. I work in accordance with the F
 [![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 [![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FKfarell17108&layout=compact&card_width=720&hide_border=true&theme=github_dark" alt="Top" />
-</a>
-
 ---
 
 ### Quote:
